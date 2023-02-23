@@ -1,14 +1,15 @@
 # Seyyed Abbas Mirghasemi
 
 ## About me
-I'm a Software Engineer(Devops and Back-End) at Gameria.tv. Since studying in school, I have programmed in various fields. Such as web programming (front-end and back-end), embedded system (Arduino) and image processing (MATLAB). My favorite language in the last two years has been Elixir. Nowadays I love cloud computing and any kind of infrastructure technologys.
+I'm a Software Engineer(Devops and Back-End) at Gameria.tv. Since studying in school, I have programmed in various fields. Such as web programming (front-end and back-end), embedded system (Arduino) and image processing (MATLAB). My favorite language in the last two years has been Elixir. Nowadays I love cloud computing and any kind of infrastructure technologies.
 
 
-## Favorite technologys and Tools
-* Docker
+## Favorite technologies and Tools
 * Kubernetes
 * Vmware vsphere
+* Docker
 * Elixir
+* Phoenix Framework
 * Solidity
 
 ## Stats
